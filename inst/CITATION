@@ -1,0 +1,39 @@
+citHeader("To cite the 'ECGofTestDx' package in publications use:")
+
+year <- sub("-.*", "", meta$Date)
+vers <- sprintf("R package version %s", meta$Version)
+
+citEntry(entry="Manual",
+         title = "ECGofTestDx: A Goodness-of-fit Test for Elliptical Distributions with Diagnostic Capabilities",
+         author = personList(as.person("Gilles R. Ducharme"),
+                             as.person("Pierre Lafaye de Micheaux")),
+         year = year,
+         note = vers,
+
+         textVersion =
+         paste("Gilles R. Ducharme, Pierre Lafaye de Micheaux (",
+               year,
+               "). ECGofTestDx: A Goodness-of-fit Test for Elliptical Distributions with Diagnostic Capabilities. ",
+               vers, ".", sep=""))
+
+
+bibentry(bibtype = "Article",
+  title        = "A Goodness-of-fit Test for Elliptical Distributions with Diagnostic Capabilities",
+  author       = c(person(given = c("Gilles", "R"),
+                          family = "Ducharme"),
+                   person(given = c("Pierre"),
+                          family = "Lafaye De Micheaux")),
+  journal      = "ArXiv e-prints",
+  year         = "2019",
+  volume       = "0",
+  number       = "0",
+  pages        = "0",
+  doi          = "",
+
+  header       = "To cite ECGofTestDx in publications use:",
+  textVersion  =
+  paste0("Gilles R. Ducharme, Pierre Lafaye de Micheaux (2019).",
+        "A Goodness-of-fit Test for Elliptical Distributions with Diagnostic Capabilities.",
+        "arXiv preprint <arXiv:1902.03622>")
+)
+

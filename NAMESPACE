@@ -1,0 +1,6 @@
+useDynLib(ECGofTestDx, .registration = TRUE)
+
+export(SmoothECTest)
+import(orthopolynom, bootstrap)
+
+importFrom("stats", "cov", "na.omit", "pchisq")
