@@ -3,3 +3,12 @@
 
 Version 0.2 : First version of package ECGofTestDx
 
+2024-10-11
+----------
+
+Version 0.5
+
+- replaced warning with Rf_warning line 615 of files  chebyshev_t_polynomials.cpp and chebyshev_u_polynomials.cpp to solve a compilation error due to the new use of _R_CXX_USE_NO_REMAP_
+- change the year and doi in the DESCRIPTION file
+- also updated the CITATION file and the ref in file SmoothECTest.Rd
+

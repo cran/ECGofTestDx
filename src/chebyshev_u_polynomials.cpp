@@ -612,7 +612,7 @@
     break;
  
  default:
- warning("n =  101  but it cannot be greater than  100 , contact the author to increase that value");
+ Rf_warning("n =  101  but it cannot be greater than  100 , contact the author to increase that value");
 }
  return;
 }

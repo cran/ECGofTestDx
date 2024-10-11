@@ -61,9 +61,9 @@ Logical. If \code{TRUE}, the faster C++ code is used.
   }
 }
 \references{
-Gilles R. Ducharme, Pierre Lafaye de Micheaux (2019). A Goodness-of-fit
+Gilles R. Ducharme, Pierre Lafaye de Micheaux (2020). A Goodness-of-fit
 Test for Elliptical Distributions with Diagnostic Capabilities.
-ArXiv pre-print. \url{https://arxiv.org/abs/1902.03622}
+Journal of Multivariate Analysis, volume 178.
 }
 \author{
 G. R. Ducharme, P. Lafaye De Micheaux

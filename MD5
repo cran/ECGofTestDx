@@ -1,10 +1,10 @@
-dfe42f9f8af829e97e075259b9f6452d *DESCRIPTION
+f6869eab7657ff890868b410840334ee *DESCRIPTION
 e0af6de7aebf9bd0bfa0f9de187c00ad *NAMESPACE
 692e93d5aa1ad40b9b2c9851e95e3781 *R/SmoothECTest.R
 ea69ccfe46485967a80be4f2153b0960 *R/zzz.R
-1adbb8c700b995b7abe7adaeddd0c549 *inst/CITATION
-7782bf97d451f8ea15844b757812ef1c *inst/HISTORY
-f500cc2bfbbf59c45a70de3964219df2 *man/SmoothECTest.Rd
+fcc157b31a292ae7864dc828df2e1504 *inst/CITATION
+84e64929e65853c349a8c91fe48e5d01 *inst/HISTORY
+51eca9efb40bcaab15e847f6e4380a8a *man/SmoothECTest.Rd
 d208eeca2f06661c30362d7203d0ee31 *src/ECGofTestDx_init.c
-87b9d6346a13099d7d7395c945bd7dc5 *src/chebyshev_t_polynomials.cpp
-ccda0c8b4582c30bc77c94c7fd882392 *src/chebyshev_u_polynomials.cpp
+9aeb77f1fcb9ae84a56e7227e2fda6ac *src/chebyshev_t_polynomials.cpp
+edfd964165c8c81794a303ee8226fb15 *src/chebyshev_u_polynomials.cpp
